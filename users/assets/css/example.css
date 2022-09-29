@@ -1,0 +1,28 @@
+
+.main-chart{
+    margin-top: 20px;
+}
+.mt{
+    margin-top: 25px;
+}
+h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 740px)
+ {
+   
+    .main-chart{
+        margin-top: 60px;
+    }
+    .mt{
+        margin-top: 67px;
+    }
+    h4{
+        margin-top: 78px;
+    }
+   
+
+    
+}
